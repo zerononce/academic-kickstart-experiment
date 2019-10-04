@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name:Hashfail
 
 # Username (this should match the folder name)
 authors:
@@ -14,16 +14,17 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: n/a (win on your own merit) 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Blockchain 
+- Cryptography 
+- Research 
+- OSINT 
 
 education:
   courses:
@@ -47,7 +48,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/zerononcense
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
